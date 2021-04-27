@@ -1,0 +1,36 @@
+
+body{
+    background-image: url("https://image.freepik.com/fotos-gratis/textura-de-papel-branco_1194-2324.jpg");
+    background-attachment: fixed;
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-color: #aaa5a5;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+
+ .container{
+     text-align: center;
+}
+
+.campo{
+    font-family: "Poppins";
+    font-size: 250%;
+    margin-left: 45%;
+}
+
+ button{
+    background:#313031;
+    color:#f0eaf0;
+    font-size:25px;
+    padding: 8px 45px;
+    cursor:pointer;
+    border: 0;
+    margin-left: 50%;
+    border-radius: 50%;
+}
+
